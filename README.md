@@ -1,4 +1,4 @@
-# Fantastic-Weather-App
+# ClimaCast-App
 
 ## User Story
 
