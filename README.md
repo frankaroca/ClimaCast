@@ -30,7 +30,7 @@ Provided with the API link to a weather website (https://api.openweathermap.org/
 
 ## Link to Website
 
-https://dcollan.github.io/fantastic-weather-app/
+https://frankaroca.github.io/ClimaCast/
 
 ## How to Run
 
